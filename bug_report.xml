@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+   <ID>1</ID>
+   <Title>Payment page is not opened after clicking on the button 'Buy'</Title>
+   <STR>
+     <1step>Open page www.shop.com</1step>
+     <2step>Select any item</2step>
+     <3step>Click 'Buy'</3step>
+   </STR>  
+   <AR>Page www.shop.com is opened</AR>\
+   <EX>Page www.shop.com/payment is opened</EX>
+<Severity>Critical</Severity>
+<Priority>High</Priority>
