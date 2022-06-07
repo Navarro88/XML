@@ -8,5 +8,5 @@
    </STR>  
    <AR>Page www.shop.com is opened</AR>\
    <EX>Page www.shop.com/payment is opened</EX>
-<Severity>Critical</Severity>
-<Priority>High</Priority>
+   <Severity>Critical</Severity>
+   <Priority>High</Priority>
