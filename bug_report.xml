@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1251"?>
-<bug>
+ <bug>
    <ID>1</ID>
    <Title>Payment page is not opened after clicking on the button &apos;Buy&apos;</Title>
    <STR>
@@ -11,4 +11,4 @@
    <EX>Page www.shop.com/payment is opened</EX>
    <Severity>Critical</Severity>
    <Priority>High</Priority>
-</bug>
+ </bug>
